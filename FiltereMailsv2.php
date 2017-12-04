@@ -1,4 +1,9 @@
 <!doctype html> <html> <head> 
+<!----
+## Right 2017
+## Original Download  https://github.com/Misterklio/Filter-Email-Advanced-v2/
+## Shared By Mister klio
+ --->
 <? echo "<meta charset=utf-8 />";?>
 <? echo "<meta http-equiv=X-UA-Compatible content='IE=edge;chrome=1'/> "?>
 <? echo "<title> </> Filter eMails Advanced v2 | Mister klio Right </> </title>"; ?>
@@ -346,8 +351,7 @@ $nn=$nn + 1;
 <? echo $td ;?><? echo $center ;?><div class="blazemailcom"'><font color='white'> @blazemail.com | <font color='#cfcfcf'><?echo $blazemail;?></font> | </font></div><? echo $Anticenter ;?><textarea name="gmxx" cols="30" rows="10" ><?echo $blazemailcom ;?></textarea><? echo $Antitd ;?>
 </tr><tr><? echo $td ;?><? echo $center ;?><div class="other"'><? echo $font ;?> Recycle Bin eMails | <font color='#cfcfcf'><?echo $nn-1;?></font> | </font></div><? echo $Anticenter ;?><textarea name="othersx" cols="30" rows="10" ><?echo $ather;?></textarea></td></tr></table></div>
 <? echo $Anticenter ;?>
-<?php echo $MyRight ; ?>
 <? 
 
 //// END
-?><? echo "<br><p></p></p></br><br></body></html>";?>
+?><? echo "<p></p><br></body></html>";?>
